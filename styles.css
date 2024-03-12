@@ -80,6 +80,7 @@ h1{
 @media (min-width: 768px) {
     .content {
         padding: 5rem;
+        padding-top: 4rem;
     }
 }
 
